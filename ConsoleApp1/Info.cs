@@ -12,7 +12,7 @@ namespace Maldade
         public string pName; //guardando nome do processo
         public string ePath; //path do bin
         public string ipv4address; //ipv4
-	public string hostName;
+	     public string hostName;
         public int pId; //id do processo
         public bool isAdmin; //checando se o bico é adm
 
